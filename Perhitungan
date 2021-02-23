@@ -8,7 +8,7 @@ class App12 extends StatelessWidget {
       title: 'Program Billing Warnet',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('LIDIA SUNDARI (5SIA1)'),
+          title: Text('M Fadhil Putra Dini Sitepu (5SIA1)'),
         ),
         body: App(),
       ),
